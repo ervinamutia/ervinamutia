@@ -1,3 +1,4 @@
+![Skzoo Header](assets/skzoo-header.png)
 ## Hi there 👋
 
 <!--
