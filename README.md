@@ -1,17 +1,23 @@
 ![Skzoo Header](assets/skzoo-header.png)
-## Step Out! Hellaw I'm Tiara from Stay ✨
 
-<!--
-**ervinamutia/ervinamutia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Step Out! Hellaw I'm Tiara from STAY ✨
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+##### About Me
+Information Systems graduate with a strong interest in the field of information technology, particularly in web development, data processing, and interface design. Experienced in developing simple applications, analyzing data, and designing user-oriented solutions through academic and practical projects. Able to work in a structured, adaptive manner, both independently and in teams. Committed to continuously developing skills and contributing effectively in the IT field.
+</div>
+
+---
+
+<div align="center">
+
+##### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,kotlin,java,figma,vscode,androidstudio,git,github,flutter&perline=6)](https://skillicons.dev)
+</div>
