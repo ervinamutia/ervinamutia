@@ -35,6 +35,7 @@ Sometimes coding, sometimes overthinking design
 
 ## Skills
 
+<<<<<<< HEAD
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,kotlin,php,figma,vscode,androidstudio,git,github,flutter&perline=12)](https://skillicons.dev)
 </div>
 
@@ -58,3 +59,7 @@ Sometimes coding, sometimes overthinking design
 
 </div>
 </div>
+=======
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,kotlin,java,figma,vscode,androidstudio,git,github,flutter&perline=6)](https://skillicons.dev)
+</div>
+>>>>>>> 279799e1ee5cd6fabd354f54473e8450ae267469
